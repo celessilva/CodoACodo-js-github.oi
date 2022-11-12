@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+div .docs {
+    color: rgb(131, 127, 127);
+text-decoration: none;
+}
+
+#mover{
+    margin-left: 50px;
+}
+
+div .btn{
+    background-color: rgb(152, 233, 98);
+    border: none;
+    
+}
+
+.form-control{
+    margin-top: 5px;
+}
+
+#footer {
+    background:rgb(3, 53, 66);
+    height: 100px;
+   
+}
+
+#footer a {
+    text-decoration: none;
+
+}
